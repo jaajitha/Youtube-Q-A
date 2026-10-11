@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+groq
+langchain-groq
+together
+python-dotenv
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
